@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@microsoft/signalr": "^7.0.5",
+    "@reduxjs/toolkit": "^1.9.5",
+    "force-graph": "^1.43.1",
+    "formik": "^2.4.1",
+    "Graph": "^0.0.1",
+    "module": "^1.2.5",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-force-graph-2d": "^1.25.0",
+    "react-redux": "^8.0.7",
+    "react-router-dom": "^6.11.2",
+    "react-scripts": "^5.0.1",
+    "styles": "^0.2.1",
+    "web-vitals": "^3.3.2",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
